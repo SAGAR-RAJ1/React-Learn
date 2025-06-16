@@ -1,12 +1,7 @@
 
 import './App.css'
-
-function HY(){
-
- return   <h1>HEllo brother</h1>
- 
-  
-}
+// import HY from "./Title" Method 2
+import {HY} from "./Title"
 
 function App() {
 
