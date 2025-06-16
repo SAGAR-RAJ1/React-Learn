@@ -1,16 +1,23 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 
+function HY(){
+
+ return   <h1>HEllo brother</h1>
+ 
+  
+}
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
+    <HY/>
+  <h1>HEllo</h1>
+  <HY></HY>
 
-    <h2>Hello World!</h2>
-      
+   
+     
     </>
     
   )
