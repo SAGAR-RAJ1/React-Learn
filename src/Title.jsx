@@ -1,7 +1,13 @@
 
-function HY({name}){
+function HY({name,names,object}){
 
-    return   <h1>HEllo brother ! {name}</h1>
+    return(
+        <div>
+            <h1>HEllo brother ! {name}</h1>
+            <p>{names}</p>
+            <h3>{object.s}</h3>
+        </div>
+    )   
     
 }   
 // export default HY;
