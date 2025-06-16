@@ -7,9 +7,9 @@ function App() {
 
   return (
     <>
-    <HY/>
-  <h1>HEllo</h1>
-  <HY></HY>
+    <HY name="Saarya" />
+  <h1 >HEllo</h1>
+  <HY name="Indrajeet"></HY>
 
    
      

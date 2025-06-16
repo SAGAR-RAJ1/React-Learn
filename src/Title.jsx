@@ -1,7 +1,7 @@
 
-function HY(){
+function HY({name}){
 
-    return   <h1>HEllo brother</h1>
+    return   <h1>HEllo brother ! {name}</h1>
     
 }   
 // export default HY;
