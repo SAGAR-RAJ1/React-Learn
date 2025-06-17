@@ -1,6 +1,6 @@
 
 import './App.css'
-import Button from './Button'
+import LikeButton from './LikeButton'
 
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
   
 <div>
 <h1>Button will be here</h1>
-<Button/>
+<LikeButton/>
 </div>
    
      
@@ -17,5 +17,6 @@ function App() {
     
   )
 }
+
 
 export default App
